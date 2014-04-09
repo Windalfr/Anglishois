@@ -1,0 +1,80 @@
+///
+* 1. Idée initiale, écrite par les scénaristes et validée ou non par la direction.
+2. Création du cahier des charges, shéma principal et évaluation financières, puis validation par la direction.
+* 3. Développement d'une maquette, une petite portion quoi, et validation par un éditeur qui accepte de financer le projet.
+* 4. Les scénaristes écrivent l'intégralité du jeu dans les moindres détails.
+5. Production du jeu (en parallele) :
+          A. Les développeurs commencent à coder le jeu.
+          B. Les infographistes dessinent les modèles et textures
+         * C. Les compositeurs se chargent de la musique
+         * D. Coté marketing, suivi de l'évolution du projet, délais et budgets respectés, assurance qualité, etc..
+         * E. Publicité sur internet et conventions, goodies, version "Day One" etc...
+6. Phases de tests et débug, les testeurs entrent en jeu.
+7. Localisation du jeu si besoin est, traducteurs et doubleurs donc.
+* 8. Distribution dans le monde, donc encore le marketing.
+///
+
+
+
+
+Good Morning everyone,
+
+So, we are going to talk about the different steps in order to create a video game, and more specially about the jobs around the creation of a video game.
+
+1.
+First of all, we need an idea for the story of the game,  so we need scriptwriter.
+As many creative professions, there is no forming to become a scriptwriter.
+The scriptwriter is considered as the real creator of the game, often called Game Designer too.
+Often, the game designer have another job in the development of the game, developer for example.
+
+The main mission of the game designer is to build the story of the game, and the game's environment. 
+He must before anything create a coherent universe and a main story which will be developed in the next steps of the game's development.
+He has to invent all the characters of the game, and define their physical (hair color, size, age), their psychological characteristics (his passions, what he loves, what he hates, his years of studies), and any other information allowing to know better the character (name, number of brothers and sisters). 
+To create the characters, the game designer use archetypes (hero, thief, prince, princess) which give already certain points about the character.
+To write his scenario and find his inspiration, the scriptwriter will have to make also an important research work (myths founders, sociology, ethnology).
+The game designer sets up all the mechanisms of the game, it's the chain of stages, the geography of the game's world, somtimes the religions, and defines what will be the quest of the player.
+
+----- Expliquer que bon scenario avec rebondissements inattendus = garder le joueur en haleine ----
+
+He also takes care to give an interactive dimension to the game, and doesn't hesitate to imply the player in the construction of his story. 
+For example, in Mass Effect, your choices and your actions have real consequences ingame : 
+Sometimes, you will have to choose between a good action, a neutral action or a bad action. 
+For example, to choose between be friend with someone or no, but later in the game, this choice can have a big impact. I won't spoil the end of Mass Effect 2, but you can have a lot of bad endings, and a few of good endings, which are the consequences of your choices during the game.
+
+In this first step, the game designer has to set up the bases of the game only, and the direction will accept or refuse his idea.
+If the direction accept, he will finish his job at the step 4.
+
+
+
+
+3. Now, it's time to realize a prototype. It's a essential stage in the realization of a game.
+It's consist to test if your conception sticks on the reality. A small working team, composed with the members of the next step, is going to design a very small part of the game, for example a level for a platform game, or a circuit for a race game.
+So, you are able to test that the artistic and technical choices are the best for the game and the gameplay.
+
+It's with this prototype that you can search editor in order to financing your project.
+This model give you a credibility, will prove in a concrete way the feasibility of your project and its potential.
+Today, without this model, your chances to leak out are very reduced.
+
+
+
+4. Now, you have find a editor in order to finance your project.
+The scriptwriter will write the completeness of the game, in greatest details. Choices, reactions of every person at the very precise moments, and all the background.
+
+For the games which are based a lot on the background, game's universe, the persons, and the scenario, like the RPG for example, this stage is the most important.
+
+
+
+
+5. C.  The music composer have to compose the music. It's very important for the game's atmosphere. A lot of games are very famous for their music. 
+For some games, the music is a part of the game experience, for example, in horror games, like Resident Evil, the music is one of the most important part in the game.
+
+
+
+5.E.  The marketers have to return a attractive game, in order to attract the players. 
+So, some months before the game release,  they must give to the player some good introduction videos, to make day one edition or collector edition, to do advertising of the internet, to make some goodies for example.
+
+
+
+
+8. Now, the marketers must to sell the game around the world, so to participate at expositions, to do advertising for shops, like posters for example.
+
